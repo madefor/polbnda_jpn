@@ -1,201 +1,55 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+Geospatial Information Authority of Japan Website Terms of Use (Version 2.0)
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-   1. Definitions.
-
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
-
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "{}"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright {yyyy} {name of copyright owner}
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+1. Using the content on this website
+  Information made available on this website (hereinafter referred to as “Content”) may be freely used, copied, publicly transmitted, translated or otherwise modified on condition that the user complies with provisions 1) to 7) below. Commercial use of Content is also permitted.
+  Note, however, that numerical data and data in Simple tables, graphs, and so forth are not subject to copyright. Accordingly the terms of use does not apply to such data, and said data may be used freely.
+  Use of the Content constitutes agreement by the user with these terms of use for using the Content described herein (hereinafter referred to as “Terms of Use”).
+ 
+1) Source citation
+ 
+The user must cite the source when using the Content. Sources should be cited in the following manner:
+　　    (Examples of source citation)
+          Source: Geospatial Information Authority of Japan website (URL of the relevant page)
+If you cite Urban Area Active Fault Maps, you must specify surveyor’s name and material number of Technical Materials of the Geospatial Information Authority of Japan.
+When using Content in an academic paper or book, and so forth, you must give source citation in an appropriate manner set forth in the journal’s rules.  
+If you have edited the Content for use, you must include a statement expressing that the content has been edited, in addition to the abovementioned source citation, but not in any way that making public or using edited information in a format that may be misconstrued as having been created by the Government of Japan (or its ministries and/or agencies).
+　　   (Example of citation when using edited content) 
+Created by editing GSI Tiles (elevation)
+Created by Company YY based on XX data (Geospatial Information Authority of Japan) (URL of the relevant page)
+2) No infringement of third party rights
+ 
+In some cases, a third party (refers to a party other than the state. Hereinafter referred to as “Third Party”) may hold copyrights or other rights to a part of the Content. For Content where a Third Party holds copyrights or other rights (e.g. portrait rights in a photograph, publicity rights etc.), it is the responsibility of the user to obtain consent for use from the Third Party unless there is explicit indication that the rights have already been cleared.
+If a Third Party holds rights to a part of the Content, said fact may be directly or indirectly stated or indicated through source citations, but in some cases the part of the Content to which the Third Party holds the rights may not be clear or may not be explicitly stated. It is the responsibility of the user to confirm the rights pertaining to use of the Content. 
+         (Examples of the cases indicating or suggesting that Third Party holds rights)
+The user must comply with the terms and conditions of the source provider for Content obtained through API (Application Programming Interface) links to external databases etc.  
+Even if a Third Party holds copyrights to the Content, some use of the Content, such as quoting, may be allowed without the consent of the copyright holder, under the Copyright Act of Japan.
+3) Content where use is restricted by specific laws and ordinances
+Use of some Content may be restricted by specific laws and ordinances. Laws and ordinances listed below are particularly important to note. Please refer to the relevant link(s) below for details.
+Application for duplication and use when using Basic Survey Results based on Survey Act (in Japanese)　(Contact Contact Address(1))
+Regarding the application for duplication and use of Public Survey Results based on Survey Act, you must obtain approval from the Survey Planning Organization that has developed the concerned Survey Results. With regard to the results developed by GSI, approval from GSI is needed. For further details, please confirm to the Survey Planning Organization concerned.
+“Service for Browsing Control Points” (in Japanese) as prescribed in Article 27 (3) and Article 42 (1) of Survey Act is provided to browse Survey Results and Survey Records. Descriptions of Control Points in Survey Records are not available other than browsing because they include retained personal information as prescribed in Article 8 of Act on the Protection of Personal Information Held by Administrative Organs.
+4) Content where the Terms of Use does not apply
+The Terms of Use herein does not apply to the following Content.
+Symbol mark, Logo, and Character Design which represent the organization or specific business.
+Content where other terms of use apply with rational and concrete reason.
+        (Please refer to Notes. Content where other terms of use apply.
+5) Governing law and jurisdiction
+The Terms of Use shall be governed by and construed in accordance with the laws of Japan.
+In case of disputes relating to the use of the Content based on the Terms of Use, or the Terms of Use, the user agrees that the exclusive court of first instance shall be the district court with jurisdiction in the place where the organization that has published the disputed Content or Terms of Use is located.
+6) Disclaimer
+The state bears absolutely no responsibility for any action taken by the user involving the use of the Content (including use of information based on edited Content).
+The Content may be modified, moved or deleted without prior notice.
+7) Other
+The Terms of Use does not limit those types of uses for which, under Copyright Act of Japan, license from the right holders are not required.
+The Terms of Use was established on 25th January, 2016. The Terms of Use is based on the Government of Japan Standard Terms of Use (Version 2.0). The Terms of Use may be modified in the future. If you are already using Content under previous version of the Government of Japan Standard Terms of Use, these terms and conditions will continue to apply.
+The Terms of Use are compatible with the Creative Commons Attribution License 4.0 (hereinafter referred to as the CC License). This means that Content based on the Terms of Use may be used under the CC License in lieu of the Terms of Use.
+Examples of the cases indicating or suggesting that Third Party holds rights
+Interferometric SAR images published in Geospatial Information Authority of Japan website are analyzed by Geospatial Information Authority of Japan. Raw data of ALOS/PALSAR is owed by Ministry of Economy, Trade and Industry (METI) and Japan Aerospace Exploration Agency (JAXA) and that of ALOS-2/PALSAR-2 is owed by JAXA.
+When citing interferometric image using PALSAR and PALSAR 2 data, abovementioned fact must be explicitly stated and credit for the image must be given as follows:
+- ALOS/PALSAR: "Analysis by GSI from ALOS raw data of JAXA, METI"
+- ALOS-2/PALSAR-2: "Analysis by GSI from ALOS raw data of JAXA"
+lIGS precise ephemeris files provided in "GEONET Data Service" are created by IGS (International GNSS Service), therefore it is necessary not to infringe the IGS’s rights.
+With regard to articles in the Report of Coordinating Committee for Earthquake Prediction, copyright on each article is held by the respective author. If you reprint or copy the content in the report beyond the scope of citation, approval from the copyright holder is required. For application procedures and other inquiries, please contact the Secretariat of Coordinating Committee for Earthquake Prediction.
+Notes.
+Content where other terms of use apply
+Terms of use other than the Terms of Use herein shall apply to software （programs） provided in downloadable format, if the specific terms of use are set forth in the software.

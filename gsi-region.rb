@@ -28,5 +28,7 @@ r['features'].each{|f|
     fill = '#474'
   end
   f['properties']['fill'] = fill
+  f['properties']['stroke-width'] = 0
+  f['properties']['fill-opacity'] = 0.8
 }
 File.open('gsi-region.geojson', 'w'){|w| w.print JSON.dump(r)}

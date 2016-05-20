@@ -1,6 +1,6 @@
 require 'json'
 
-r = JSON.parse(File.open('polbnda_jpn.geojson').read)
+r = JSON.parse(File.read('polbnda_jpn.geojson'))
 r['features'].each{|f|
   %w{f_code coc nam laa pop ypc salb soc}.each{|k| f['properties'].delete(k)}
   pref = f['properties']['adm_code'].to_i / 1000
@@ -31,4 +31,4 @@ r['features'].each{|f|
   f['properties']['stroke'] = color
   f['properties']['fill-opacity'] = 0.6
 }
-File.open('gsi-region.geojson', 'w'){|w| w.print JSON.dump(r)}
+File.write('gsi-region.geojson', JSON.dump(r))
